@@ -32,7 +32,7 @@
 
         // NO SPACES between channel values where the commas are below
 
-       // $slackAutoJoinChannels='C07TW5E4C,C07TUK80Z,C07TUCHLJ,C07TW5E4C,C07TUCHLJ';
+       $slackAutoJoinChannels='C07TW5E4C,C07TUK80Z,C07TUCHLJ,C07TW5E4C,C07TUCHLJ';
 
     
         // generate token at https://api.slack.com/
